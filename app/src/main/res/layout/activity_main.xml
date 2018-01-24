@@ -18,9 +18,10 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="49dp"
+        android:fontFamily="monospace"
         android:text="@string/title"
-        android:textColor="@android:color/black"
-        android:textSize="40sp" />
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="50sp" />
 
     <ImageView
         android:id="@+id/imageView"
